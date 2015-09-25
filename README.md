@@ -2,7 +2,8 @@ Ce programme crée une page HTML qui salut quand on clique sur un bouton.
 
 DONE :
 - fichier alert.js
+- fichier alert.html
 
 TODO :
-- fichier alert.html
+- BUG : pas d'alert !
 
