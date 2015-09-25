@@ -1,3 +1,3 @@
-function bonjour(var){
-	alert(var);
+function bonjour(variable){
+	alert('Bonjour '+variable);
 }
